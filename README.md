@@ -4,6 +4,8 @@ A Chromium/Chrome extension that moves the active tab to a new browser window wi
 
 **Default shortcut:** `Ctrl+Shift+G`
 
+![Demo](demo.gif)
+
 ## Features
 
 - Move any tab to a new window instantly
