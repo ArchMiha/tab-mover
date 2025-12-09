@@ -19,3 +19,6 @@ venv/
 
 # Claude Code
 .claude/
+
+# Original video files (converted to GIF)
+*.mp4
