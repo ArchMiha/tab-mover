@@ -1,0 +1,9 @@
+{
+  "name": "com.tabmover.host",
+  "description": "Native messaging host for Tab Mover extension",
+  "path": "INSTALL_PATH/tab_mover_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://EXTENSION_ID/"
+  ]
+}
